@@ -19,7 +19,7 @@ publication_types: ["2"]
 publication: In *Statistics and Probability Letters*
 publication_short: ""
 
-abstract: "We consider the three dimensional array $\\acal = \\{a\\_{i,j,k}\\}\\_{1\\le i,j,k \\le n}$, with , and the two random statistics, where $\\sigma$ and $\\pi$ are chosen independently from the set of permutations of  These can be viewed as natural three dimensional generalizations of the statistic , considered by Hoeffding . Here we give Bernstein type concentration inequalities for  by extending the argument for concentration of  by Chatterjee ."
+abstract: "We consider the three dimensional array $\\mathcal{A} = \{a\\_{i,j,k}\}\\_{1\\le i,j,k \\le n}$, with , and the two random statistics, where $\\sigma$ and $\\pi$ are chosen independently from the set of permutations of  These can be viewed as natural three dimensional generalizations of the statistic , considered by Hoeffding . Here we give Bernstein type concentration inequalities for  by extending the argument for concentration of  by Chatterjee ."
 
 # Summary. An optional shortened abstract.
 # summary: 
