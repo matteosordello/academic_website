@@ -19,7 +19,7 @@ publication_types: ["2"]
 publication: In *Statistics and Probability Letters*
 publication_short: ""
 
-abstract: "We consider the three dimensional array $\acal = \{a_{i,j,k}\}_{1\le i,j,k \le n}$, with $a_{i,j,k} \in [0,1]$, and the two random statistics $T_{1}:= \sum_{i=1}^n \sum_{j=1}^n a_{i,j,\sigma(i)}$ and $T_{2}:= \sum_{i=1}^{n} a_{i,\sigma(i),\pi(i)}$, where $\sigma$ and $\pi$ are chosen independently from the set of permutations of $\{1,2,\ldots,n  \}.$ These can be viewed as natural three dimensional generalizations of the statistic $T_{3}=\sum_{i=1}^{n} a_{i,\sigma(i)}$, considered by Hoeffding \cite{Hoe51}. Here we give Bernstein type concentration inequalities for $T_{1}$ and $T_{2}$ by extending the argument for concentration of $T_{3}$ by Chatterjee \cite{Cha05}."
+abstract: "We consider the three dimensional array $\\acal = \\{a\\_{i,j,k}\\}\\_{1\\le i,j,k \\le n}$, with , and the two random statistics, where $\\sigma$ and $\\pi$ are chosen independently from the set of permutations of  These can be viewed as natural three dimensional generalizations of the statistic , considered by Hoeffding . Here we give Bernstein type concentration inequalities for  by extending the argument for concentration of  by Chatterjee ."
 
 # Summary. An optional shortened abstract.
 # summary: 
