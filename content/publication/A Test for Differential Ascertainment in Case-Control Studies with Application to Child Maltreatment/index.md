@@ -19,7 +19,8 @@ publication_types: ["2"]
 publication: ""
 publication_short: ""
 
-# abstract: 
+abstract: We propose a method to test for the presence of differential ascertainment in case-control studies, when data are collected by multiple sources. We show that, when differential ascertainment is present, the use of only the observed cases leads to severe bias in the computation of the odds ratio. The use of the estimates that our method of testing for differential ascertainment naturally provides can alleviate the effect of such bias.
+We apply it to a dataset obtained from the National Violent Death Reporting System, with the goal of checking for the presence of differential ascertainment by race in the count of deaths caused by child maltreatment.
 
 # Summary. An optional shortened abstract.
 # summary:
@@ -29,7 +30,7 @@ publication_short: ""
 #featured: false
 
 # links:
-url_pdf: ""
+url_pdf: "https://arxiv.org/pdf/1905.10808.pdf"
 url_code: ""
 url_dataset: ""
 url_poster: ""
