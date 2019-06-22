@@ -19,7 +19,7 @@ publication_types: ["2"]
 publication: In *Statistics and Probability Letters*
 publication_short: ""
 
-abstract: "We consider the three dimensional array $\\mathcal{A} = (a\\_{i,j,k})\\_{1\\le i,j,k \\le n}$, with $a_{i,j,k} \\in [0,1]$, and the two random statistics $T\\_{1}:= \\sum\\_{i=1}^n \\sum\\_{j=1}^n a\\_{i,j,\\sigma(i)}$ and $T\\_{2}:= \\sum\\_{i=1}^{n} a\\_{i,\\sigma(i),\\pi(i)}$, where $\\sigma$ and $\\pi$ are chosen independently from the set of permutations of  These can be viewed as natural three dimensional generalizations of the statistic , considered by Hoeffding . Here we give Bernstein type concentration inequalities for  by extending the argument for concentration of  by Chatterjee ."
+abstract: "We consider the three dimensional array $\\mathcal{A} = (a\\_{i,j,k})\\_{1\\le i,j,k \\le n}$, with $a_{i,j,k} \\in [0,1]$, and the two random statistics $T\\_{1}:= \\sum\\_{i=1}^n \\sum\\_{j=1}^n a\\_{i,j,\\sigma(i)}$ and $T\\_{2}:= \\sum\\_{i=1}^{n} a\\_{i,\\sigma(i),\\pi(i)}$, where $\\sigma$ and $\\pi$ are chosen independently from the set of permutations of $[n]$. These can be viewed as natural three dimensional generalizations of the statistic $T\\_{3} = \\sum\\_{i=1}^{n} a\\_{i,\\sigma(i)}$, considered by Hoeffding (1951). Here we give Bernstein type concentration inequalities for $T\\_{1}$ and $T\\_{2}$ by extending the argument for concentration of $T\\_{3}$ by Chatterjee (2005)."
 
 # Summary. An optional shortened abstract.
 # summary: 
