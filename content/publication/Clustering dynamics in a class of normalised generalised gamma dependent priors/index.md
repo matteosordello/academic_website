@@ -16,7 +16,7 @@ doi: "10.1007/s10463-016-0583-8"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "In *Annals of the Institute of Statistical Mathematics*"
 publication_short: ""
 
 abstract: "Normalised generalised gamma processes are random probability measures that induce nonparametric prior distributions widely used in Bayesian statistics, particularly for mixture modelling. We construct a class of dependent normalised generalised gamma priors induced by a stationary population model of Moran type, which exploits a generalised Pólya urn scheme associated with the prior. We study the asymptotic scaling for the dynamics of the number of clusters in the sample, which in turn provides a dynamic measure of diversity in the underlying population. The limit is formalised to be a positive non-stationary diffusion process which falls outside well-known families, with unbounded drift and an entrance boundary at the origin. We also introduce a new class of stationary positive diffusions, whose invariant measures are explicit and have power law tails, which approximate weakly the scaling limit.
