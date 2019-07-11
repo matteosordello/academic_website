@@ -4,7 +4,7 @@ authors:
 - Debapratim Banerjee
 - admin
 date: "2019-06-01"
-doi: ""
+doi: "https://doi.org/10.1016/j.spl.2019.06.010"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2019-06-01"
