@@ -19,8 +19,7 @@ publication_types: ["1"]
 publication: ""
 publication_short: ""
 
-abstract: "This paper proposes a new procedure, which we term SplitSGD, for stochastic optimization with a dynamic learning rate selection rule. This procedure appropriately decreases the learning rate for better adaptation to the local geometry of the objective whenever a stationary phase is detected. The detection is performed by splitting the single thread into two and use the coherence of the two threads as a measure of stationarity. This learning rate selection is provably valid, robust, easy-to-implement, and essentially does not incur additional computational costs. Finally, we demonstrate the robustness
-and satisfactory convergence performance of SplitSGD in extensive experiments. Notably, this simple procedure matches the performance of some widely used stochastic methods in their best settings.
+abstract: "This paper proposes SplitSGD, a new stochastic optimization algorithm with a dynamic learning rate selection rule. This procedure decreases the learning rate for better adaptation to the local geometry of the objective function whenever a stationary phase is detected, that is, the iterates are likely to bounce around a vicinity of a local minimum. The detection is performed by splitting the single thread into two and using the inner products of the gradients from the two threads as a measure of stationarity. This learning rate selection is provably valid, robust to initial parameters, easy-to-implement, and essentially does not incur additional computational cost. Finally, we illustrate the robust convergence properties of SplitSGD through extensive experiments.
 "
 
 # Summary. An optional shortened abstract.
