@@ -29,7 +29,7 @@ abstract: "We consider the three dimensional array $\\mathcal{A} = ${$a\\_{i,j,k
 #featured: true
 
 links:
-url_pdf: ""
+url_pdf: "https://arxiv.org/pdf/1907.08729.pdf"
 url_code: ""
 url_dataset: ""
 url_poster: ""
