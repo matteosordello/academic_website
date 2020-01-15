@@ -20,6 +20,11 @@ subtitle = ""
   name = "R"
   
 [[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  
+[[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
@@ -28,5 +33,10 @@ subtitle = ""
   icon = "volleyball-ball"
   icon_pack = "fas"
   name = "Volleyball"
+  
+[[feature]]
+  icon = "table-tennis"
+  icon_pack = "fas"
+  name = "Table Tennis"
 
 +++
