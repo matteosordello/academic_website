@@ -15,9 +15,9 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
+  icon = "chart-bar"
+  icon_pack = "far"
+  name = "Statistics"
   
 [[feature]]
   icon = "python"
@@ -25,9 +25,14 @@ subtitle = ""
   name = "Python"
   
 [[feature]]
+  icon = "r-project"
+  icon_pack = "fab"
+  name = "R"
+  
+[[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
+  name = "Data Analysis"
   
 [[feature]]
   icon = "volleyball-ball"
