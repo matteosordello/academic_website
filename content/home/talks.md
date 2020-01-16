@@ -23,9 +23,9 @@ list_format = 0
 exclude_selected = false
 +++
 
-* <b> JSM 2019 </b> in Denver, Colorado, USA
+* <b> JSM 2019 </b> in Denver, Colorado, USA.
   Invited Session in [Uncertainty Quantification for Stochastic Optimization Methods in Machine Learning](https://ww2.amstat.org/meetings/jsm/2019/onlineprogram/ActivityDetails.cfm?SessionID=218051)
-* <b> JSM 2018 </b> in Vancouver, Canada
+* <b> JSM 2018 </b> in Vancouver, Canada.
   Session in [Model-Based Statistics and Applications](https://ww2.amstat.org/meetings/jsm/2018/onlineprogram/ActivityDetails.cfm?SessionID=215725)
   
   
