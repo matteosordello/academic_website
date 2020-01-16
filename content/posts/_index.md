@@ -12,10 +12,6 @@ view: 2
 header:
   caption: ""
   image: ""
-  
-## khjbòweiuhj
-
-## gkjhnmbkjwe
 
 ---
 
