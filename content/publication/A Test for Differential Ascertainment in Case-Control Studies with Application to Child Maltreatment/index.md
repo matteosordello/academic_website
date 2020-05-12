@@ -3,8 +3,8 @@ title: "A Test for Differential Ascertainment in Case-Control Studies with Appli
 authors:
 - admin
 - Dylan S. Small
-date: ""
-doi: ""
+date: "2020-05-11"
+doi: "10.1002/sim.8551"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2019-01-01T00:00:00Z"
