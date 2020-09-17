@@ -59,7 +59,7 @@ social:
    link: https://github.com/matteosordello
  - icon: cv                         %%%%%%%%%% CV HERE
    icon_pack: ai
-   link: files/cv.pdf
+   link: files/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
