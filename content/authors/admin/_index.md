@@ -25,6 +25,8 @@ organizations:
 interests:
 - Optimization
 - Machine Learning
+- MCMC Sampling
+- Active Learning
 
 education:
   courses:
