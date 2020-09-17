@@ -23,6 +23,8 @@ list_format = 0
 exclude_selected = false
 +++
 
+* <b> JSM 2020 </b> in Philadelphia, Pennsylvania, USA. (remote)
+  Session in [Statistical Learning and Data Science](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219953)
 * <b> [Welcome Home 2019](https://sites.google.com/site/welcomehomeunito/welcome-home-2019) </b> in Torino, Italy, organized by the Math Department [Giuseppe Peano](https://www.dipmatematica.unito.it/do/home.pl).
 * <b> JSM 2019 </b> in Denver, Colorado, USA.
   Invited Session in [Uncertainty Quantification for Stochastic Optimization Methods in Machine Learning](https://ww2.amstat.org/meetings/jsm/2019/onlineprogram/ActivityDetails.cfm?SessionID=218051)
