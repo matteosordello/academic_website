@@ -32,7 +32,7 @@ education:
   courses:
   - course: PhD in Statistics
     institution: The Wharton School, University of Pennsylvania
-    year: expected 2021
+    year: 2021
   - course: M.Sc. in Mathematics with emphasis in Probability
     institution: University of Torino
     year: 2015
