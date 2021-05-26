@@ -75,10 +75,10 @@ email: ""
 
 
 
-I am PhD Student in the [Statistics Department](https://statistics.wharton.upenn.edu/) at the Wharton School, University of Pennsylvania, under the supervision of Professor [Weijie Su](https://statistics.wharton.upenn.edu/profile/suw/). 
+I am a PhD Student in the [Statistics Department](https://statistics.wharton.upenn.edu/) at the Wharton School, University of Pennsylvania, under the supervision of Professor [Weijie Su](https://statistics.wharton.upenn.edu/profile/suw/). 
 
 Before coming to Penn, I studied Mathematics at the [University of Turin](https://www.matematica.unito.it/do/home.pl) and Statistics at [Collegio Carlo Alberto](https://www.carloalberto.org/), where I completed my Master's thesis under the supervision of Professor [Matteo Ruggiero](http://www.matteoruggiero.it/).
 
 My office is: 451 Jon M. Huntsman Hall, 3730 Walnut Street, Philadelphia PA
 
-My email address is: sordello AT wharton DOT upenn DOT edu
+My personal email address is: matteo.sordello91 AT gmail DOT com
