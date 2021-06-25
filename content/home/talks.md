@@ -23,6 +23,8 @@ list_format = 0
 exclude_selected = false
 +++
 
+* <b> [ICLR 2021 Workshop on Distributed and Private Machine Learning](https://dp-ml.github.io/2021-workshop-ICLR/) </b> 
+  Contributed Talk on Privacy Amplification via Iteration for Shuffled and Online PNSGD
 * <b> JSM 2020 </b> in Philadelphia, Pennsylvania, USA. (remote)
   Session in [Statistical Learning and Data Science](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219953)
 * <b> [Welcome Home 2019](https://sites.google.com/site/welcomehomeunito/welcome-home-2019) </b> in Torino, Italy, organized by the Math Department [Giuseppe Peano](https://www.dipmatematica.unito.it/do/home.pl).
