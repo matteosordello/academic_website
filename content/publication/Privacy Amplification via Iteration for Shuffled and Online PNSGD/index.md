@@ -35,7 +35,7 @@ url_code: ""
 url_dataset: ""
 url_poster: ""
 url_project: ""
-url_slides: ""
+url_slides: "Slides_Privacy_ECML_PKDD.pdf"
 url_source: ""
 url_video: ""
 
