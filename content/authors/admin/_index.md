@@ -12,12 +12,12 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student in Statistics
+role: Data Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Wharton School, UPenn
-  url: "https://www.wharton.upenn.edu/"
+- name: Google
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -73,10 +73,10 @@ email: ""
 
 
 
+I have been working as a Data Scientist in the Storage Analytics team at Google since July 2021.
 
+Previously, I was a PhD Student in the [Statistics Department](https://statistics.wharton.upenn.edu/) at the [Wharton School](https://www.wharton.upenn.edu/), University of Pennsylvania, under the supervision of Professor [Weijie Su](https://statistics.wharton.upenn.edu/profile/suw/). 
 
-I am a PhD Student in the [Statistics Department](https://statistics.wharton.upenn.edu/) at the Wharton School, University of Pennsylvania, under the supervision of Professor [Weijie Su](https://statistics.wharton.upenn.edu/profile/suw/). 
-
-Before coming to Penn, I studied Mathematics at the [University of Turin](https://www.matematica.unito.it/do/home.pl) and Statistics at [Collegio Carlo Alberto](https://www.carloalberto.org/), where I completed my Master's thesis under the supervision of Professor [Matteo Ruggiero](http://www.matteoruggiero.it/).
+Before joining UPenn, I studied Mathematics at the [University of Turin](https://www.matematica.unito.it/do/home.pl) and Statistics at [Collegio Carlo Alberto](https://www.carloalberto.org/), where I completed my Master's thesis under the supervision of Professor [Matteo Ruggiero](http://www.matteoruggiero.it/).
 
 My personal email address is: matteo.sordello91 AT gmail DOT com
